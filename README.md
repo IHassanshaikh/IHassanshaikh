@@ -1,4 +1,4 @@
-[logo]()
+![logo](https://github.com/IHassanshaikh/IHassanshaikh/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Hassan</h1>
 <h3 align="center">A passionate web developer from Pakistan</h3>
 
