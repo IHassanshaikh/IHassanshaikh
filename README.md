@@ -1,28 +1,80 @@
-![logo](https://github.com/IHassanshaikh/IHassanshaikh/blob/main/banner.png)
-<h1 align="center">Hi 👋, I'm Muhammad Hassan</h1>
-<h3 align="center">A passionate web developer from Pakistan</h3>
+<!-- HEADER -->
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ihassanshaikh&label=Profile%20views&color=0e75b6&style=flat" alt="ihassanshaikh" /> </p>
+<img src="https://github.com/IHassanshaikh/IHassanshaikh/blob/main/banner.png" alt="Muhammad Hassan Banner" width="100%"/>
 
-- 🌱 I’m currently learning **Python**
+# Muhammad Hassan
 
-- 👨‍💻 All of my projects are available at [https://github.com/IHassanshaikh](https://github.com/IHassanshaikh)
+### Full-Stack Developer · AI Automation Developer · Computer Science Student
 
-- 📫 How to reach me **hassanshaikh9717@gmail.com**
+Building web applications, AI-powered systems, and automated workflows.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hassan shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan shaikh" height="30" width="40" /></a>
-<a href="https://instagram.com/ihassanskaikh_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ihassanskaikh_k" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/IHassanshaikh">
+    <img src="https://img.shields.io/github/followers/IHassanshaikh?label=Followers&style=flat&logo=github" />
+  </a>
+  <a href="https://github.com/IHassanshaikh?tab=repositories">
+    <img src="https://img.shields.io/github/stars/IHassanshaikh?affiliations=OWNER%2CCOLLABORATOR&style=flat&logo=github&label=Stars" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ihassanshaikh&label=Profile%20Views&style=flat" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+<p>
+  <a href="https://linkedin.com/in/hassan-shaikh-618966253">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hassanshaikh9717@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/IHassanshaikh">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihassanshaikh&show_icons=true&locale=en&layout=compact" alt="ihassanshaikh" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ihassanshaikh&show_icons=true&locale=en" alt="ihassanshaikh" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ihassanshaikh&" alt="ihassanshaikh" /></p>
+## About Me
+
+I'm **Muhammad Hassan**, a Computer Science student and Full-Stack Developer focused on building practical software products.
+
+My work sits at the intersection of:
+
+- Full-Stack Web Development
+- AI & Automation
+- API Integrations
+- Business Workflow Automation
+- E-commerce Systems
+- Developer Tools
+
+I enjoy taking an idea from **concept → architecture → development → deployment** and turning it into something people can actually use.
+
+Currently exploring deeper into **AI agents, RAG systems, LLM applications, workflow automation, and scalable backend systems.**
+
+---
+
+## What I Build
+
+```text
+Web Applications
+├── React / Next.js
+├── Node.js / Express
+├── MongoDB / PostgreSQL
+└── REST APIs & Integrations
+
+AI & Automation
+├── LLM Applications
+├── AI Agents
+├── RAG Systems
+├── Voice AI
+├── Workflow Automation
+└── API-based AI Systems
+
+Business Systems
+├── E-commerce
+├── WooCommerce
+├── Shopify
+├── CRM Integrations
+└── Automated Workflows
