@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/IHassanshaikh/IHassanshaikh/main/banner.png" alt="Muhammad Hassan Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/IHassanshaikh/IHassanshaikh/main/1787680523304.jpg" alt="Muhammad Hassan Banner" width="100%" />
 
   <br/>
 
